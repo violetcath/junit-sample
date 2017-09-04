@@ -8,7 +8,7 @@ public class SampleTest {
 	public void simpleTestPassed() {
 		int a = 1;
 		int b = 2;
-		assertTrue(a + b == 3);
+		assertTrue(a + b == 4);
 	}
 	
  	@Test
@@ -17,5 +17,8 @@ public class SampleTest {
  		int b = 2;
  		assertFalse(a + b == 5);
  	}
-	
+
+
 }
+
+//na edit na po namin Lagasca Reyes
