@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="SampleTest" time="0.006" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="SampleTest" time="0.005" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jre1.8.0_144\bin"/>
@@ -29,7 +29,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="classworlds.conf" value="C:/apache-maven-3.5.0/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\ProgramData\Oracle\Java\javapath;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Users\bianca.a.del.puerto\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\mingw64\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\local\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\mingw64\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\bin;C:\Users\bianca.a.del.puerto\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Services\IPT;C:\apache-maven-3.5.0\bin;C:\apache-maven-3.5.0\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\OpenVPN\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Symantec\VIP Access Client;C:\Program Files (x86)\Intel\Services\IPT;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\cmd;C:\Program Files\Java\jdk1.8.0_131\bin;C:\apache-maven-3.5.0\bin;C:\apache-maven-3.5.0\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\bin\vendor_perl;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\bin\core_perl;."/>
+    <property name="java.library.path" value="C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\bianca.a.del.puerto\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\mingw64\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\local\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\mingw64\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\bin;C:\Users\bianca.a.del.puerto\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Services\IPT;C:\apache-maven-3.5.0\bin;C:\apache-maven-3.5.0\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\OpenVPN\bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Symantec\VIP Access Client;C:\Program Files (x86)\Intel\Services\IPT;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\cmd;C:\Program Files\Java\jdk1.8.0_131\bin;C:\apache-maven-3.5.0\bin;C:\apache-maven-3.5.0\bin;C:\Users\bianca.a.del.puerto\AppData\Local\Microsoft\WindowsApps;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\bin\vendor_perl;C:\Users\bianca.a.del.puerto\AppData\Local\Programs\Git\usr\bin\core_perl;."/>
     <property name="maven.conf" value="C:/apache-maven-3.5.0/conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
@@ -50,9 +50,9 @@
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
-    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.version" value="1.8.0_144"/>
-    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jre1.8.0_144\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jre1.8.0_144\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jre1.8.0_144\lib\resources.jar;C:\Program Files (x86)\Java\jre1.8.0_144\lib\rt.jar;C:\Program Files (x86)\Java\jre1.8.0_144\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre1.8.0_144\lib\jsse.jar;C:\Program Files (x86)\Java\jre1.8.0_144\lib\jce.jar;C:\Program Files (x86)\Java\jre1.8.0_144\lib\charsets.jar;C:\Program Files (x86)\Java\jre1.8.0_144\lib\jfr.jar;C:\Program Files (x86)\Java\jre1.8.0_144\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="maven.home" value="C:\apache-maven-3.5.0"/>
@@ -63,6 +63,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase classname="SampleTest" name="simpleTestPassed" time="0.006"/>
+  <testcase classname="SampleTest" name="simpleTestPassed" time="0.005"/>
   <testcase classname="SampleTest" name="simpleTestFailed" time="0"/>
 </testsuite>
